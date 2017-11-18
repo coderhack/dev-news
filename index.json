@@ -1,16 +1,24 @@
 [
   {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the first item.",
-    "redirectionUrl": "https://www.amazon.com"
+    "uid": "001",
+    "updateDate": "2017-11-19T00:00:00.0Z",
+    "titleText": "GitHub now warns of security flaws in your project",
+    "mainText": "GitHub is helping to ensure your project is secure by alerting developers if a vulnerability is detected.",
+    "redirectionUrl": "http://www.coderhack.com"
    },
-  {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
-    "redirectionUrl": "https://blr.club"
+   {
+    "uid": "002",
+    "updateDate": "2017-11-19T00:00:00.0Z",
+    "titleText": "Microsoft upgrades and open sources Java debugger for Visual Studio Code",
+    "mainText": "Microsoft has open sourced the Java debugger extension for Visual Studio Code after receiving numerous constructive feedback and suggestions from Java developers.",
+    "redirectionUrl": "http://www.coderhack.com"
+   },
+   {
+    "uid": "003",
+    "updateDate": "2017-11-19T00:00:00.0Z",
+    "titleText": "Android 8.1 Developer Preview released with Neural Networks API",
+    "mainText": "AI is the next frontier in smartphones, and Google plans to lead the charge with a dedicated Neural Networks API in the latest Android developer preview.",
+    "redirectionUrl": "http://www.coderhack.com"
+   }
   }
 ]
